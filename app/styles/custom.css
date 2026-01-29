@@ -1,9 +1,7 @@
-@layer properties {
+/* @layer properties {
   :root,
   :host {
-    --color-forest-green: #2f5d3a;
-
-    --color-accent-700: var(--color-forest-green);
-    --color-accent-default: var(--color-forest-green);
+    --color-accent-default: #2f5d3a;
+    --color-accent-700: #2f5d3a;
   }
-}
+} */
