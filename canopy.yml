@@ -1,19 +1,19 @@
-title: Canopy Site ??
+title: Explore Environmental Impact Statements
+description: >
+  A curated digital collection of Environmental Imapct Statements from Northwestern Libraries Collection.
 collection:
   - https://api.dc.library.northwestern.edu/api/v2/collections/f2fc1bd8-c37f-4486-b28a-509f0e0362e1?as=iiif
 manifest:
-
+  - https://libmma.contentdm.oclc.org/iiif/info/p16028coll1/29951/manifest.json
 metadata:
-  - Subject
+  - Alternate Title
   - Date
-  - Language
-  - Genre
+  - Contributor
+
 featured:
-  - https://api.dc.library.northwestern.edu/api/v2/works/4bdb5a22-6c7f-498d-8e6e-e49ea9bc4778?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/c26591b2-994b-4ba3-a87e-9124419fa91b?as=iiif
-  - https://api.dc.library.northwestern.edu/api/v2/works/d4c62d7f-f50d-4b29-85e0-5d380675bec7?as=iiif
-  - https://iiif.vam.ac.uk/collections/O74660/manifest.json
-  - https://api.dc.library.northwestern.edu/api/v2/works/e0d60273-e64c-49d8-99dc-d1af8f4c6266?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/72905c97-4f67-4a33-a864-871c879b80eb?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/e05c9c4e-c5fa-494c-a675-121ebb0da011?as=iiif
+  - https://api.dc.library.northwestern.edu/api/v2/works/e33939cd-308b-47af-853e-58a6b1aba7e3?as=iiif
 search:
   page:
     title: Search
@@ -38,5 +38,5 @@ search:
         - tagging
 theme:
   appearance: light
-  accentColor: indigo
-  grayColor: slate
+  accentColor: emerald
+  grayColor: zinc
